@@ -1,0 +1,10 @@
+come
+and
+elif
+for
+if
+or
+not
+go
+switch
+while

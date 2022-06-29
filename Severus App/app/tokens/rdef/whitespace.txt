@@ -1,0 +1,12 @@
+char
+int
+key
+return
+bool
+func
+stng
+float
+struct
+cast
+:
+&
